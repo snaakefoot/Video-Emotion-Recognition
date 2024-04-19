@@ -6,7 +6,7 @@ Welcome to the repository for our innovative mobile application designed for emo
 
 This versatile application allows users to upload videos from their mobile devices and perform emotion detection on any detected audio or visual elements. Whether it's a subtle facial expression or a distinct voice tone, our app strives to understand the underlying emotions conveyed in the video content.
 
-For a practical demonstration, watch our project demo on YouTube where we provide a brief overview of the emotion prediction process. Watch the demo here.
+For a practical demonstration, watch our project demo on YouTube where we provide a brief overview of the emotion prediction process. Watch the demo [here](https://www.youtube.com/watch?v=0uGNMNZdlAY&t).
 
 Additionally, delve into our presentation included in this repository, which outlines the necessity of this project along with detailed insights into the training and deployment processes of our models.
 
